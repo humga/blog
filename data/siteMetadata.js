@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'SimulatedWorld',
-  author: 'SimulatedWorld',
+  author: 'dengliang',
   headerTitle: 'Simulated World',
   description: '',
   language: 'en-us',
